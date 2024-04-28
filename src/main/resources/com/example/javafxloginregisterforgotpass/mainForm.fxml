@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="485.0" prefWidth="826.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.javafxloginregisterforgotpass.MainForm">
+   <children>
+      <Label alignment="CENTER" layoutX="120.0" layoutY="213.0" text="Welcome to the Priyank's Coding" AnchorPane.bottomAnchor="213.79999999999998" AnchorPane.leftAnchor="120.0" AnchorPane.rightAnchor="120.39999999999998" AnchorPane.topAnchor="213.0">
+         <font>
+            <Font size="40.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>
